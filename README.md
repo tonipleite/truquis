@@ -1,0 +1,2 @@
+# truquis
+Conjunto de truquis.
