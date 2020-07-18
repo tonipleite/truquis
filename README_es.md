@@ -14,7 +14,7 @@ En su conjunto los archivos no componen un proyecto de ningún tipo; en todo cas
 
 ## Detalle
 
-###1. plantillaDescargaGoogle.js
+### 1. plantillaDescargaGoogle.js
 
 Esta plantilla en JS ha sido originalmente diseñada para descargar de manera iterativa información de la página de Google Maps, haciendo peticiones de ruta (cómo ir de "A" a "B") a través de la URL. Es cierto que esta tarea puede hacerse de diferentes maneras, comenzando por utilizar la propia API de Google, o _curl_, para recoger la información.
 

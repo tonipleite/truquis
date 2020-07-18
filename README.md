@@ -14,7 +14,7 @@ These files aren't part of a common project, although some of them could become 
 
 ## Details
 
-###1. plantillaDescargaGoogle.js
+### 1. plantillaDescargaGoogle.js
 
 This JS template has originally been designed to download iteratively information from Google Maps site, by doing trip request (from point "A" to point "B"), then using de URL info. This task can be achieved somehow else for sure, by utilizing Google's API or even _curl_ to collect the info.
 
